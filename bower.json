@@ -1,0 +1,17 @@
+{
+  "name": "furai",
+  "version": "0.1.0",
+  "homepage": "https://github.com/atanasiuswau/furai",
+  "authors": [
+    "Atanasius Wau <atanasiuswau@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "foundation": "~5.1.1"
+  }
+}
